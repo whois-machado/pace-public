@@ -313,8 +313,6 @@ O PACE AI será implementado com uma arquitetura de Retrieval-Augmented Generati
 4. Um prompt estruturado é enviado ao modelo.
 5. O modelo gera uma resposta contextualizada.
 
-![Pipeline RAG do PACE AI](../diagrams/rag-pipeline.png)
-
 ---
 
 # 16. Roadmap de Desenvolvimento
