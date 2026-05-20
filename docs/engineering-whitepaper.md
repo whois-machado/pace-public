@@ -121,6 +121,8 @@ O fluxo de utilização da plataforma pode ser resumido nas seguintes etapas:
 
 Essa abordagem transforma a produtividade em um processo iterativo, no qual organização, execução e melhoria contínua são integradas em uma única plataforma.
 
+O PACE também incorporará mecanismos de gamificação, incluindo rankings entre usuários baseados em métricas como streaks, tempo de foco e consistência de uso. Esses recursos têm como objetivo estimular hábitos produtivos, aumentar o engajamento e promover uma competição saudável entre os usuários.
+
 ---
 
 # 7. Stack Tecnológica
@@ -211,6 +213,8 @@ As principais entidades do sistema são:
 - Preferences
 - Session
 - Stats
+- Leaderboard
+- LeaderboardEntry
 - OnboardingProfile
 - AIConversation
 - AIMessage
@@ -269,6 +273,8 @@ A arquitetura, entretanto, foi projetada para evoluir de forma gradual.
 
 ### Expansão
 - Redis para cache e filas
+- Rankings globais e periódicos
+- Redis para cache e processamento de leaderboards
 - Serviços desacoplados
 - Infraestrutura em AWS
 - Escalabilidade horizontal
