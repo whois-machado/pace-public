@@ -103,9 +103,15 @@ O assistente utiliza informações contextuais como:
 
 ---
 
-## Capturas de Tela
+## Design & Identidade Visual
 
-Imagens do aplicativo em desenvolvimento estão disponíveis no diretório [`screenshots/`](./screenshots).
+O design do PACE foi planejado para ser minimalista, moderno e focado em alta performance. Abaixo estão as artes conceituais desenvolvidas para os *Instagram Stories*, demonstrando a proposta de valor e a interface do aplicativo:
+
+| Instagram Story - 1 | Instagram Story - 2 | Instagram Story - 4 |
+| :---: | :---: | :---: |
+| <img src="screenshots/story1.png" width="250" alt="Sua rotina virou um caos?"> | <img src="screenshots/story2.png" width="250" alt="Assuma o controle das suas semanas"> | <img src="screenshots/story3.png" width="250" alt="Pronto para deixar sua marca no topo?"> |
+
+*Nota: As imagens completas e demais capturas de tela do aplicativo em desenvolvimento estão disponíveis no diretório `screenshots/`.*
 
 ---
 
